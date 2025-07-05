@@ -3,7 +3,7 @@
 ## 📌 Información General
 
 - *Título: Práctica de Arboles
-- *Asignatura: Estructura de Datos
+- *Asignatura: Estructura de Datos 
 - *Carrera: Computación
 - *Estudiante: Ariel Badillo
 - *Fecha: 05/07/2025
