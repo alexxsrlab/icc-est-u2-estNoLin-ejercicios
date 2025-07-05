@@ -91,7 +91,3 @@
 ##  Explicacion Metodo Ejercicio 4 
 
 - El metodo maxDepth calcula la altura maxima de un arbol binario de forma recursiva si el nodo es null, retorna 0, para cada nodo, obtiene la profundidad maxima de sus subarboles izquierdo y derecho, luego devuelve el mayor valor sumando 1 para incluir el nivel actual asi determina la altura total del arbol desde la raiz hasta el ultimo nivel donde hay un nodo hijo.
-
-##  Explicacion Del Main
-
-- El metodo maxDepth calcula la altura maxima de un arbol binario de forma recursiva si el nodo es null, retorna 0, para cada nodo, obtiene la profundidad maxima de sus subarboles izquierdo y derecho, luego devuelve el mayor valor sumando 1 para incluir el nivel actual asi determina la altura total del arbol desde la raiz hasta el ultimo nivel donde hay un nodo hijo.
